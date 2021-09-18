@@ -32,3 +32,8 @@ These are some more reasons of making String immutable:
     Immutability gives the security of loading the correct class by Classloader. For example, suppose we have an instance where we try to load java.sql.Connection class but the changes in the referenced value to the myhacked.Connection class does unwanted things to our database.
 
 https://dzone.com/articles/how-to-create-an-immutable-class-in-java
+
+
+https://www.geeksforgeeks.org/multithreading-in-java/
+
+
