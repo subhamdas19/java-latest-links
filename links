@@ -38,4 +38,17 @@ https://www.geeksforgeeks.org/multithreading-in-java/
 
 https://www.geeksforgeeks.org/thread-pools-java/
 
+PRIORITY QUEUE COMPARATOR
+https://www.geeksforgeeks.org/implement-priorityqueue-comparator-java/
+
+MAX HEAP DECLARATION
+ PriorityQueue<Integer> maxHeap = new PriorityQueue<>(Collections.reverseOrder());
+  PriorityQueue<Integer> minHeap = new PriorityQueue<>();
+  
+  
+  
+  https://stackoverflow.com/questions/11003155/change-priorityqueue-to-max-priorityqueue
+  
+  
+
 
