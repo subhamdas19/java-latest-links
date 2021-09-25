@@ -83,3 +83,7 @@ When you call notify method on the object, it wakes one of thread waiting for th
 notifyAll() :
 notifyAll will wake up all threads waiting on that object unlike notify which wakes up only one of them.Which one will wake up first depends on thread priority and OS implementation.
 
+https://java2blog.com/print-sequence-3-threads-java/
+Print sequence using 3 threads in java
+
+
