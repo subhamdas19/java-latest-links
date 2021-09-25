@@ -86,4 +86,7 @@ notifyAll will wake up all threads waiting on that object unlike notify which wa
 https://java2blog.com/print-sequence-3-threads-java/
 Print sequence using 3 threads in java
 
+Print even and odd numbers in increasing order using two threads in Java
+https://www.geeksforgeeks.org/print-even-and-odd-numbers-in-increasing-order-using-two-threads-in-java/
+
 
